@@ -1,4 +1,4 @@
 Sweet-potato-Breeding
 =====================
 
-This is a data repository produced by sweet potato breeding for SPVD
+This repository stores data related to  sweet potato breeding
